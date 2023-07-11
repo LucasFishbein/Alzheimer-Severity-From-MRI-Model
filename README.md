@@ -7,10 +7,8 @@
 
 # Getting Started with this Repository
 
-Download and install all required Python Packages as specified in the jupyter notebook. 
-
 The MRI Image Dataset can be downloaded from [Kaggle.com](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images).
- Place the train and test folders into the root directory folder '/data'. Merge the contents of the train and test folders by class into their repective class folder located in the '/data/all' directory.
+Specific instructions for set up to ensure reproducibility are located in the juptyer notebook "Getting Started with this Repository" section.
 
 # Project Overview and Business Problem
 
