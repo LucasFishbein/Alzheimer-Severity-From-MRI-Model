@@ -149,11 +149,9 @@ For additional info, contact Lucas Fishbein at FishbeinLucas@gmail.com
 
 ```
 ├── .gitignore
-├── CONTRIBUTING.md
+├── figures
 ├── Alzheimer's Severity Classification Model.ipynb
-├── data
 ├── trained models
-├── LICENSE.md
 └── README.md
 ```
 
