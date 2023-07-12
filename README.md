@@ -112,7 +112,8 @@ As an example use case for this model, an Image was ran through the sequential C
 
 An example of part of a feature map is exhibited below:
 
-<img width="281" alt="Screenshot 2023-07-11 at 2 45 56 PM" src="https://github.com/LucasFishbein/Alzheimer-Severity-From-MRI-Model/assets/117129342/ffa1e08a-8a41-4bf0-ba03-95d675028e68">
+![Screenshot 2023-07-12 at 11 34 19 AM](https://github.com/LucasFishbein/Alzheimer-Severity-From-MRI-Model/assets/117129342/9f31b8c1-acc1-4060-9638-84936a7afff0)
+
 
 ### Feature Map Analysis
 
