@@ -121,6 +121,13 @@ The figure above shows a snippet fo the features the model is identifying to hel
 
 This type of information can be used by physicians to better understand a single patient as well as potentially illuminate patterns of overall disease progression.
 
+# Example Recommendations Based off MRI Analysis
+
+1. Model successfully classified sample image as Moderate Impairment
+2. From feature map the most effected areas of the brain are highlighted, in this example it is tha cerebral cortex and edges of the ventricles
+3. A physician will be able to use this model's highlighted information to build better understanding of the current state and progression of the disease in patient.
+4. Physician can use this information to build a more informed treatment plan.
+
 # Conclusions
 
 Through the iterative training of a variety of different styles of MRI image classifications models, a final model has been produced that classifies a single MRI image into their Alzheimer's Disease severity level at an accuracy level of 98.4% with recall and precision scores of 98.6% and 99.0%. Overall this model performed very well at classifying single MRI images into the four target Alzheimer's Disease severity class; "No Impairment", "Very Mild Impairment", "Mild Impairment", and "Moderate Impairment". 
